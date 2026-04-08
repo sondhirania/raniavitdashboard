@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/raniavitdashboard/static/css/main.b2277548.css",
+    "main.js": "/raniavitdashboard/static/js/main.2f3b54ef.js",
+    "static/js/453.a69c463b.chunk.js": "/raniavitdashboard/static/js/453.a69c463b.chunk.js",
+    "index.html": "/raniavitdashboard/index.html",
+    "main.b2277548.css.map": "/raniavitdashboard/static/css/main.b2277548.css.map",
+    "main.2f3b54ef.js.map": "/raniavitdashboard/static/js/main.2f3b54ef.js.map",
+    "453.a69c463b.chunk.js.map": "/raniavitdashboard/static/js/453.a69c463b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2277548.css",
+    "static/js/main.2f3b54ef.js"
+  ]
+}
