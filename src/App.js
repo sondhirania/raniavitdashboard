@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Timetable from "./pages/Timetable";
@@ -9,7 +9,7 @@ import "./App.css";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
 
       <Navbar />
 
@@ -21,7 +21,7 @@ function App() {
         <Route path="/tasks" element={<Tasks />} />
       </Routes>
 
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
