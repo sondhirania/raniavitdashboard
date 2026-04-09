@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/raniadashboard/static/css/main.b2277548.css",
-    "main.js": "/raniadashboard/static/js/main.38297c21.js",
+    "main.js": "/raniadashboard/static/js/main.a842e713.js",
     "static/js/453.a69c463b.chunk.js": "/raniadashboard/static/js/453.a69c463b.chunk.js",
     "index.html": "/raniadashboard/index.html",
     "main.b2277548.css.map": "/raniadashboard/static/css/main.b2277548.css.map",
-    "main.38297c21.js.map": "/raniadashboard/static/js/main.38297c21.js.map",
+    "main.a842e713.js.map": "/raniadashboard/static/js/main.a842e713.js.map",
     "453.a69c463b.chunk.js.map": "/raniadashboard/static/js/453.a69c463b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2277548.css",
-    "static/js/main.38297c21.js"
+    "static/js/main.a842e713.js"
   ]
 }
